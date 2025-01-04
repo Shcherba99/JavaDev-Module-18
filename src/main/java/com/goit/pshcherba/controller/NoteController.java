@@ -1,10 +1,10 @@
-package com.goit.javadevmodule18.controller;
+package com.goit.pshcherba.controller;
 
-import com.goit.javadevmodule18.dto.request.CreateNoteRequest;
-import com.goit.javadevmodule18.dto.request.UpdateNoteRequest;
-import com.goit.javadevmodule18.dto.responce.*;
-import com.goit.javadevmodule18.dto.responce.ResponseStatus;
-import com.goit.javadevmodule18.sevice.NoteServiceImpl;
+import com.goit.pshcherba.dto.request.CreateNoteRequest;
+import com.goit.pshcherba.dto.request.UpdateNoteRequest;
+import com.goit.pshcherba.dto.responce.*;
+import com.goit.pshcherba.dto.responce.ResponseStatus;
+import com.goit.pshcherba.sevice.NoteServiceImpl;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

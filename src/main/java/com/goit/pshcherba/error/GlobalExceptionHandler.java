@@ -1,6 +1,6 @@
-package com.goit.javadevmodule18.error;
+package com.goit.pshcherba.error;
 
-import com.goit.javadevmodule18.dto.responce.ErrorResponse;
+import com.goit.pshcherba.dto.responce.ErrorResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;
 import org.springframework.web.bind.MethodArgumentNotValidException;

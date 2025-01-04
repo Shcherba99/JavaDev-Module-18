@@ -1,4 +1,4 @@
-package com.goit.javadevmodule18;
+package com.goit.pshcherba;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

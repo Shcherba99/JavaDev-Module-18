@@ -1,4 +1,4 @@
-package com.goit.javadevmodule18.dto.request;
+package com.goit.pshcherba.dto.request;
 
 import lombok.Getter;
 import lombok.Setter;

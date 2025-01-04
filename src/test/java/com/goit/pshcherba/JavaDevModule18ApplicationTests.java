@@ -1,4 +1,4 @@
-package com.goit.javadevmodule18;
+package com.goit.pshcherba;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.goit.javadevmodule18.dto.responce;
+package com.goit.pshcherba.dto.responce;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

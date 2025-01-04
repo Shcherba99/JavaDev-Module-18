@@ -1,4 +1,4 @@
-package com.goit.javadevmodule18.dto.request;
+package com.goit.pshcherba.dto.request;
 
 /**
  * DTO class for updating an existing note.

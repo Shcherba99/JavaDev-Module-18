@@ -1,6 +1,6 @@
-package com.goit.javadevmodule18.dto.responce;
+package com.goit.pshcherba.dto.responce;
 
-import com.goit.javadevmodule18.entity.Note;
+import com.goit.pshcherba.entity.Note;
 import lombok.Getter;
 import lombok.Setter;
 

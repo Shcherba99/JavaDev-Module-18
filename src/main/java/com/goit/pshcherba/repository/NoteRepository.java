@@ -1,6 +1,6 @@
-package com.goit.javadevmodule18.repository;
+package com.goit.pshcherba.repository;
 
-import com.goit.javadevmodule18.entity.Note;
+import com.goit.pshcherba.entity.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.goit.javadevmodule18.entity;
+package com.goit.pshcherba.entity;
 
 
 import jakarta.persistence.*;

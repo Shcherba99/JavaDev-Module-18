@@ -1,8 +1,8 @@
-package com.goit.javadevmodule18.sevice;
+package com.goit.pshcherba.sevice;
 
-import com.goit.javadevmodule18.dto.request.CreateNoteRequest;
-import com.goit.javadevmodule18.dto.request.UpdateNoteRequest;
-import com.goit.javadevmodule18.dto.responce.*;
+import com.goit.pshcherba.dto.request.CreateNoteRequest;
+import com.goit.pshcherba.dto.request.UpdateNoteRequest;
+import com.goit.pshcherba.dto.responce.*;
 
 /**
  * Service interface for managing notes.

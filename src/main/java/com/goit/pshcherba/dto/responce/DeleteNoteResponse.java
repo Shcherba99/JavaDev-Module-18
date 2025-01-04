@@ -1,4 +1,4 @@
-package com.goit.javadevmodule18.dto.responce;
+package com.goit.pshcherba.dto.responce;
 
 /**
  * Response DTO for the deletion of a note.
